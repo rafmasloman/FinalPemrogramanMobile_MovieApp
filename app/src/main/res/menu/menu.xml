@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_tv_now_playing"
+        android:title="@string/now_playings"
+        android:icon="@drawable/ic_recent"
+        />
+    <item
+        android:id="@+id/menu_item_tv_upcoming"
+        android:title="@string/upcoming"
+        android:icon="@drawable/ic_baseline_calendar"
+        />
+    <item
+        android:id="@+id/menu_item_tv_popular"
+        android:title="@string/popular"
+        android:icon="@drawable/ic_baseline_local_fire"
+        />
+    <item
+        android:id="@+id/menu_item_tv_favorites"
+        android:title="@string/favorites"
+        android:icon="@drawable/ic_baseline_favorite"
+        />
+</menu>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">movie-app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Bottom Navigation -->
+    <string name="now_playings">Now Playings</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="popular">Popular</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorite_found">No favorite found</string>
+    <string name="character_name">Character Name</string>
+
+</resources>
